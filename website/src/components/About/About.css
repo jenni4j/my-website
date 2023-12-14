@@ -1,0 +1,34 @@
+#about {
+    height: calc(100vh - 4rem);
+    max-width: 100rem;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+}
+
+.pic {
+    flex: 1;
+    position: absolute;
+    top: -4rem;
+    right: 0;
+    height: 100vh;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.aboutContent {
+    flex: 2;
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.aboutText {
+    font-size: 1.75rem;
+    font-weight: 100;
+}
