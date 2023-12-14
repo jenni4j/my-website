@@ -1,11 +1,11 @@
 import React from "react";
 
-function Projects() {
+function Portfolio() {
   return (
-    <div className="projects">
+    <div className="portfolio">
       <h1> My Personal Projects</h1>
     </div>
   );
 }
 
-export default Projects;
+export default Portfolio;
