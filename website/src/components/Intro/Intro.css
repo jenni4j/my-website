@@ -1,4 +1,4 @@
-#about {
+#intro {
     height: calc(100vh - 4rem);
     max-width: 100rem;
     margin: 0 auto;
@@ -8,18 +8,13 @@
 
 .pic {
     flex: 1;
-    position: absolute;
-    top: -4rem;
-    right: 0;
-    height: 100vh;
+    height: 100%;
     max-width: 100%;
     object-fit: cover;
 }
 
-.aboutContent {
+.introContent {
     flex: 2;
-    height: 100vh;
-    width: 100vw;
     padding: 2rem;
     font-size: 3rem;
     font-weight: 700;
@@ -28,7 +23,7 @@
     justify-content: center;
 }
 
-.aboutText {
+.introText {
     font-size: 1.75rem;
     font-weight: 100;
 }
