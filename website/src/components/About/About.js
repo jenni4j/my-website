@@ -1,6 +1,5 @@
 import React from "react";
 import "./About.css";
-import {Link} from 'react-scroll';
 
 function About() {
     return (

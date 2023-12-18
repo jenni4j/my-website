@@ -1,7 +1,6 @@
 import React from "react";
 import pic from "./IMG_4691.JPG";
 import "./Intro.css";
-import {Link} from 'react-scroll';
 
 function Intro() {
     return (
