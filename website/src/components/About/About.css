@@ -14,13 +14,13 @@
     padding-top: 10rem;
     font-size: 3rem;
     font-weight: 700;
-    margin-bottom: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
 .aboutContent {
+    margin: 1.5rem;
     font-weight: 100;
     font-size: 1.30rem;
     max-width: 100rem;

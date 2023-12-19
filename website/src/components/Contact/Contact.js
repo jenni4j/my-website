@@ -1,5 +1,8 @@
 import React from "react";
 import "./Contact.css";
+import LinkedInImage from "./linkedin.png";
+import GitHubImage from "./github.png";
+import EmailImage from "./email.png";
 
 
 function Contact() {
@@ -7,7 +10,10 @@ function Contact() {
       <section id='contact'>
           <span className="contactTitle">Contact</span>
           <span className="contactContent">
-          jenni4j@gmail.com</span>
+            <img src={LinkedInImage} alt="My LinkedIn Profile" className="contactItemImg" />
+            <img src={GitHubImage} alt="My Github Profile" className="contactItemImg" />
+            <img src={EmailImage} alt="Email Me!" className="contactItemImg" />
+          </span>
       </section>        
   );
 }
