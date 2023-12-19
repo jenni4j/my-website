@@ -1,0 +1,50 @@
+#portfolio {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.portfolioTitle {
+    padding-top: 10rem;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.portfolioContent {
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 100%;
+    text-align: left;
+}
+
+.portfolioItem {
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: white;
+}
+
+.portfolioItemImg {
+    object-fit: cover;
+    height: 10rem;
+    width: 10rem;
+    margin-right: 2rem;
+}
+
+.portfolioItemText {
+    font-size: 1rem;
+    font-weight: 200;
+
+}
