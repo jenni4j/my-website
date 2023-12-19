@@ -8,10 +8,11 @@
     justify-content: center;
     text-align: center;
     margin: 0 auto;
+    padding-bottom: 25rem;
 }
 
 .portfolioTitle {
-    padding-top: 10rem;
+    padding-top: 5rem;
     font-size: 3rem;
     font-weight: 700;
     display: flex;
@@ -33,6 +34,7 @@
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
     background: white;
+    cursor: pointer;
 }
 
 .portfolioItemImg {

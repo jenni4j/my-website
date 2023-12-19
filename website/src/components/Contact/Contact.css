@@ -8,28 +8,20 @@
     justify-content: center;
     text-align: center;
     margin: 0 auto;
-    margin-bottom: 3rem;
+    margin-bottom: 25rem;
+    margin-top: 25rem;
 }
 
-.contactTitle {
-    padding-top: 10rem;
-    font-size: 3rem;
-    font-weight: 700;
-    margin-bottom: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
 
 .contactContent {
     display: flex;
     flex-wrap: wrap;
-    margin: 1.5rem;
 }
 
-.contactItemImg {
+.icon {
     object-fit: cover;
     height: 3rem;
     width: 3rem;
     margin: 0 0.75rem;
+    cursor: pointer;
 }
