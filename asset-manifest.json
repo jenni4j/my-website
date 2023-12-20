@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-website/website/static/css/main.044e5679.css",
-    "main.js": "/my-website/website/static/js/main.9318c01a.js",
-    "static/js/787.c922dae8.chunk.js": "/my-website/website/static/js/787.c922dae8.chunk.js",
-    "static/media/profile-pic.png": "/my-website/website/static/media/profile-pic.6d3b1d843236751dc7cf.png",
-    "static/media/flood-image.jpeg": "/my-website/website/static/media/flood-image.d70b82bde93430670f1b.jpeg",
-    "static/media/Ubuntu-Light.ttf": "/my-website/website/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
-    "static/media/Ubuntu-Regular.ttf": "/my-website/website/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
-    "static/media/Ubuntu-Medium.ttf": "/my-website/website/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
-    "static/media/dog-breed.jpeg": "/my-website/website/static/media/dog-breed.e8ab951cfeef5f438037.jpeg",
-    "index.html": "/my-website/website/index.html",
-    "main.044e5679.css.map": "/my-website/website/static/css/main.044e5679.css.map",
-    "main.9318c01a.js.map": "/my-website/website/static/js/main.9318c01a.js.map",
-    "787.c922dae8.chunk.js.map": "/my-website/website/static/js/787.c922dae8.chunk.js.map"
+    "main.css": "/my-website/static/css/main.044e5679.css",
+    "main.js": "/my-website/static/js/main.aec2010c.js",
+    "static/js/787.c922dae8.chunk.js": "/my-website/static/js/787.c922dae8.chunk.js",
+    "static/media/profile-pic.png": "/my-website/static/media/profile-pic.6d3b1d843236751dc7cf.png",
+    "static/media/flood-image.jpeg": "/my-website/static/media/flood-image.d70b82bde93430670f1b.jpeg",
+    "static/media/Ubuntu-Light.ttf": "/my-website/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
+    "static/media/Ubuntu-Regular.ttf": "/my-website/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/my-website/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/dog-breed.jpeg": "/my-website/static/media/dog-breed.e8ab951cfeef5f438037.jpeg",
+    "index.html": "/my-website/index.html",
+    "main.044e5679.css.map": "/my-website/static/css/main.044e5679.css.map",
+    "main.aec2010c.js.map": "/my-website/static/js/main.aec2010c.js.map",
+    "787.c922dae8.chunk.js.map": "/my-website/static/js/787.c922dae8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.044e5679.css",
-    "static/js/main.9318c01a.js"
+    "static/js/main.aec2010c.js"
   ]
 }
