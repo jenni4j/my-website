@@ -49,3 +49,14 @@
     font-weight: 200;
     text-align: justify;
 }
+
+.portfolioItemHeader {
+    display: flex;
+    align-items: center; /* Align items vertically in the header */
+  }
+
+  .portfolioItemIcon {
+    height: 2rem; /* Adjust the height of the icon as needed */
+    width: 2rem;  /* Adjust the width of the icon as needed */
+    margin-left: 1rem; /* Adjust the spacing between the icon and the title */
+  }
