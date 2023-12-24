@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.044e5679.css",
-    "main.js": "/static/js/main.2f161282.js",
+    "main.css": "/static/css/main.f5480479.css",
+    "main.js": "/static/js/main.a4d00a34.js",
     "static/js/787.c922dae8.chunk.js": "/static/js/787.c922dae8.chunk.js",
     "static/media/profile-pic.png": "/static/media/profile-pic.6d3b1d843236751dc7cf.png",
     "static/media/flood-image.jpeg": "/static/media/flood-image.d70b82bde93430670f1b.jpeg",
@@ -9,13 +9,14 @@
     "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
     "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
     "static/media/dog-breed.jpeg": "/static/media/dog-breed.e8ab951cfeef5f438037.jpeg",
+    "static/media/github-logo.png": "/static/media/github-logo.bf85ce05ac42dffc229a.png",
     "index.html": "/index.html",
-    "main.044e5679.css.map": "/static/css/main.044e5679.css.map",
-    "main.2f161282.js.map": "/static/js/main.2f161282.js.map",
+    "main.f5480479.css.map": "/static/css/main.f5480479.css.map",
+    "main.a4d00a34.js.map": "/static/js/main.a4d00a34.js.map",
     "787.c922dae8.chunk.js.map": "/static/js/787.c922dae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.044e5679.css",
-    "static/js/main.2f161282.js"
+    "static/css/main.f5480479.css",
+    "static/js/main.a4d00a34.js"
   ]
 }
